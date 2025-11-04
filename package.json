@@ -1,0 +1,16 @@
+{
+  "name": "autonumberer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "pkg --debug --output D:/Program/Node/autonumberer/autonumberer -t node18-win-x64 index.js",
+    "build-all": "pkg --debug ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
