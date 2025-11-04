@@ -16,4 +16,4 @@ The program is designed to number files in descending order of the date, which i
 
 ### License
 
-The MIT License (MIT) © Fractal-Developer 2023
+The MIT License (MIT) © Fractal-Developer
